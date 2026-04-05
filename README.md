@@ -1,4 +1,5 @@
-# 💫 About Me:<br>💻 Frontend Developer | HTML • CSS • JavaScript<br>🚀 Passionate about building clean and responsive websites<br>📚 Always learning new technologies
+# 💫 About Me:
+💻 Frontend Developer | HTML • CSS • JavaScript<br>🚀 Passionate about building clean and responsive websites<br>📚 Always learning new technologies
 
 
 ## 🌐 Socials:
